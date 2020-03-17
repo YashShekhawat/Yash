@@ -18,13 +18,11 @@ h2 {
   font-size: 1.8rem;
   font-weight: normal;
   padding-bottom: 10px;
-
 }
 
 h3 {
   color: #11999e;
   font-family: 'Montserrat', sans-serif;
-
 }
 
 p {
@@ -47,7 +45,6 @@ a {
 
 a:hover {
   color: #eaf6f6;
-
 }
 
 .pro {
@@ -58,6 +55,7 @@ a:hover {
   width: 50%;
   margin: 100px auto;
   text-align: left;
+
   line-height: 2;
 }
 
@@ -68,8 +66,8 @@ a:hover {
 }
 
 .tech-photo {
-  height: 150px;
-  width: 188px;
+  height: 180px;
+  width: 199px;
 
   float: left;
   margin-right: 30px;
@@ -80,7 +78,6 @@ a:hover {
   width: 188px;
   float: right;
   margin-right: 30px;
-
 }
 
 .yash {
@@ -100,11 +97,10 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  width: 150px;
-  height: 45px;
-  left: 220px;
-  bottom: 300px;
-
+  width: 9.375;
+  height: 2.8125rem;
+  left: 13.75rem;
+  bottom: 18.75rem;
 }
 
 .profile {
@@ -112,19 +108,17 @@ a:hover {
 }
 
 .top-cloud {
-  width: 150px;
-  height: 45px;
+  width: 9.375;
+  height: 2.8125rem;
   position: absolute;
-  top: 70px;
-  right: 250px;
-
+  top: 4.375rem;
+  right: 15.675rem;
 }
 
 .middle-mount {
   width: 800px;
   height: 300px;
 }
-
 
 .para {
   margin: auto;
@@ -135,7 +129,6 @@ a:hover {
   width: 55%;
   margin: 40px auto 60px;
 }
-
 
 .touch {
   color: #1e836c;
@@ -151,22 +144,22 @@ a:hover {
 }
 
 .btn {
-  background: #11CDD4;
-  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
-  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   font-weight: 200;
   padding: 20px;
   text-shadow: 1px 1px 20px #000000;
-  border: solid #337FED 1px;
+  border: solid #337fed 1px;
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
@@ -174,13 +167,13 @@ a:hover {
 }
 
 .btn:hover {
-  border: solid #337FED 1px;
-  background: #30E3CB;
-  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AC);
-  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AC);
-  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AC);
-  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AC);
-  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AC);
+  border: solid #337fed 1px;
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ac);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ac);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ac);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ac);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ac);
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
